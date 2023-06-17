@@ -5,5 +5,6 @@ Notion pour le Kanban.
 
 Visual Paradigm pour les cas d'usage
 -	Export en PDF depuis la console.
+-	Lucidchart pour UML
 
-Balsamiq pour les WireFrames
+-	Balsamiq pour les WireFrames

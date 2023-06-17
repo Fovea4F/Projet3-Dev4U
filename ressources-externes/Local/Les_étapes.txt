@@ -1,0 +1,11 @@
+les étapes :
+
+1 - Etude du contexte en s'imprégnant des documents et des profils des acteurs.
+2 - Suivi des cours afin de comprendre les objectifs des méthodes, les rôles des différents intervenants.
+3 - Ecriture d'un premier jet des User stories.
+4 - Ecriture des tâches.
+5 - Reprise des User stories et ajout de nouvelles tâches.
+6 - Création des WireFrames.
+7 - Rerpise des User stories et des tâches.
+8 - Création du tableau Kanban.
+9 - Préparation des livrables avec synchronisation des informations de chaque partie.
